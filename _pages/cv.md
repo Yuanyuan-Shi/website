@@ -11,8 +11,8 @@ redirect_from:
 
 My latest CV could be downloaded here. [Yuanyuan's CV](https://drive.google.com/file/d/1e4vGRPEcI7w9w712VtC8JZkrK3vHIJf4/view?usp=sharing)
 
-Education
-======
+## Education
+
 * B.Eng. in Automation Engineering, Nanjing University, China, 2015
 * M.S. in Electrical Engineering, University of Washington, 2018
 * M.S. in Statistics, University of Washington, 2020 (expected)
@@ -37,8 +37,8 @@ machine learning, optimization, and control.--->
 	
 6. "Modeling and Optimization of Complex Building Systems with Recurrent Neural Networks'', INFORMS Annual Meeting, Texas, 2017/10.--->
 
-Honors & Awards
-======
+## Honors & Awards
+
 * Irene C. Peden Electrical Engineering Fellowship, University of Washington, 2019
 * National Science Foundation (NSF) iREDEFINE Award, NSF, 2019 
 * Rising Stars in EECS, MIT, 2018 
@@ -66,8 +66,8 @@ Honors & Awards
   * Summary: During this internship, I built optimization models and carried out sensitivity analysis for multiple distributed energy resource projects (e.g. energy storage, large-scale 	solar and wind farms).   
   * Supervisor: Dr. [Tess Williams](https://www.linkedin.com/in/tesslawannawilliams)--->
 
-Services
-======
+## Services
+
 * Journal Reviewer: IEEE Transactions on Power Systems, IEEE Transactions on Smart Grid, IEEE Transactions on Power Delivery, Journal of Energy Storage, IET Smart Grid
 	
 * Conference Reviewer: ICLR 2020, ACC 2020, PSCC 2020, IJCAI 2019, SmartGridComm 2019, PES GM 2018
