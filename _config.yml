@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yuanyuan Shi"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate\\Electrical and Computer Engineering, \\University of Washington"
-  location         : "185 East Stevens Way NE, Seattle, WA 98195"
+  bio              : "Ph.D. Candidate \n Electrical and Computer Engineering \n University of Washington"
+  location         : "185 East Stevens Way NE \n Seattle, WA 98195"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=XkrVZrwAAAAJ&hl=en"
