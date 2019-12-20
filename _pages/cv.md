@@ -37,18 +37,6 @@ machine learning, optimization, and control.--->
 	
 6. "Modeling and Optimization of Complex Building Systems with Recurrent Neural Networks'', INFORMS Annual Meeting, Texas, 2017/10.--->
 
-## Honors & Awards
-
-* Irene C. Peden Electrical Engineering Fellowship, University of Washington, 2019
-* National Science Foundation (NSF) iREDEFINE Award, NSF, 2019 
-* Rising Stars in EECS, MIT, 2018 
-* Malvar Endowed Fellowship in Electrical Engineering, University of Washington, 2018
-* Clean Energy Institute (CEI) Fellowship, University of Washington, 2017
-* Keith & Nancy Rattie Endowed Fellowship, University of Washington, 2016
-* China National Scholarship, Ministry of Educaction in China, 2014	
-* Mitacs Canada Globalink Research Fellowship, 2014	
-* Multiple Travel Grants: 2019 International Conference on Learning Representations (ICLR), 2019 D. E. Shaw Exploration Fellowship, 2019 Grid Science Winter School and Conference,  2018 Clean Energy Institute Travel Award
-
 <!---Work experience
 ======
 * Summer 2019: Research Scientist Intern
@@ -75,4 +63,17 @@ machine learning, optimization, and control.--->
 * Graduate Student Representative, Curriculum Committee of Electrical and Computer Engineering Department, University of Washington
 	
 * Outreach: Clean Energy Institute Ambassador for K-12 Students
+
+## Honors & Awards
+
+* Irene C. Peden Electrical Engineering Fellowship, University of Washington, 2019
+* National Science Foundation (NSF) iREDEFINE Award, NSF, 2019 
+* Rising Stars in EECS, MIT, 2018 
+* Malvar Endowed Fellowship in Electrical Engineering, University of Washington, 2018
+* Clean Energy Institute (CEI) Fellowship, University of Washington, 2017
+* Keith & Nancy Rattie Endowed Fellowship, University of Washington, 2016
+* China National Scholarship, Ministry of Educaction in China, 2014	
+* Mitacs Canada Globalink Research Fellowship, 2014	
+* Multiple Travel Grants: 2019 International Conference on Learning Representations (ICLR), 2019 D. E. Shaw Exploration Fellowship, 2019 Grid Science Winter School and Conference,  2018 Clean Energy Institute Travel Award
+
  
