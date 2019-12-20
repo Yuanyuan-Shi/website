@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuanyuan Shi"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Ph.D. student advised by Prof. Baosen Zhang in the Department of Electrical and Computer Engineering at the University of Washington. At the same time, I'm pursuing a master degree in the Department of Statistics, also at the University of Washington. 
-
-My research interests focus on the area of energy systems from the perspective of machine learning, optimization, and control. During my Ph.D. studies, I developed algorithms for controlling and optimizing resources in energy systems and discovered fundamental, societal-scale insights in data-driven, cyber-physical systems (CPS). My work has been applied by Microsoft, Doosan Gridtech, Centrica, JD.com and DeepMind.
+I am a fifth-year Ph.D. student in Electrical and Computer Engineering at the University of Washington, advised by [Prof. Baosen Zhang](https://zhangbaosen.github.io/). At the same time, I'm pursuing a master degree in the Department of Statistics. My research interests focus on the area of energy systems from the perspective of machine learning, optimization, and control. 
 
 News
 ======
