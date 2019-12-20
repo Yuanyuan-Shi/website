@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My latest CV could be downloaded here. [CV](https://drive.google.com/file/d/1e4vGRPEcI7w9w712VtC8JZkrK3vHIJf4/view?usp=sharing)
+My latest CV could be downloaded here. [Yuanyuan's CV](https://drive.google.com/file/d/1e4vGRPEcI7w9w712VtC8JZkrK3vHIJf4/view?usp=sharing)
 
 Education
 ======
@@ -17,6 +17,25 @@ Education
 * M.S. in Electrical Engineering, University of Washington, 2018
 * M.S. in Statistics, University of Washington, 2020 (expected)
 * Ph.D in Electrical and Computer Engineering, University of Washington, 2020 (expected)
+
+Research Interests
+======
+My research interests are in the area of cyber-physical and energy systems, from the perspective of
+machine learning, optimization, and control.
+
+Invited Talks
+======
+1. "Data-driven Control for Energy Systems'', University of California, Berkeley, 2019/11. Hosted by Prof. Javad Lavaei.
+	
+2. "Data-driven Control for Energy Systems", Intelligent System and Control Forum, Nanjing University, China, 2019/10. Hosted by Prof. Chunlin Chen.
+	
+3. "Data-driven Robust Reinforcement Learning for Continuous Control", DeepMind for Google (DMG) Team Meeting, DeepMind, UK, 2019/09. Hosted by Praveen Srinivasan.
+	
+4. "Optimal Control via Neural Networks'', Grid Science Winter School and Conference, Los Alamos National Laboratory, New Mexico, 2019/01. Hosted by Dr. Deepjyoti Deka.
+	
+5. "End-to-End Model for Inventory Management'', INFORMS Annual Meeting, Arizona, 2018/11.
+	
+6. "Modeling and Optimization of Complex Building Systems with Recurrent Neural Networks'', INFORMS Annual Meeting, Texas, 2017/10.
 
 Honors & Awards
 ======
@@ -30,7 +49,7 @@ Honors & Awards
 * Mitacs Canada Globalink Research Fellowship, 2014	
 * Multiple Travel Grants: 2019 International Conference on Learning Representations (ICLR), 2019 D. E. Shaw Exploration Fellowship, 2019 Grid Science Winter School and Conference,  2018 Clean Energy Institute Travel Award
 
-Work experience
+<!---Work experience
 ======
 * Summer 2019: Research Scientist Intern
   * DeepMind, London
@@ -45,7 +64,7 @@ Work experience
 * Summer 2017: Power System Research Intern
   * Doosan GridTech
   * Summary: During this internship, I built optimization models and carried out sensitivity analysis for multiple distributed energy resource projects (e.g. energy storage, large-scale 	solar and wind farms).   
-  * Supervisor: Dr. [Tess Williams](https://www.linkedin.com/in/tesslawannawilliams)
+  * Supervisor: Dr. [Tess Williams](https://www.linkedin.com/in/tesslawannawilliams)--->
 
 Services
 ======
