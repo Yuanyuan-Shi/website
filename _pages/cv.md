@@ -23,7 +23,7 @@ Research Interests
 My research interests are in the area of cyber-physical and energy systems, from the perspective of
 machine learning, optimization, and control.
 
-Invited Talks
+<!---Invited Talks
 ======
 1. "Data-driven Control for Energy Systems'', University of California, Berkeley, 2019/11. Hosted by Prof. Javad Lavaei.
 	
@@ -35,7 +35,7 @@ Invited Talks
 	
 5. "End-to-End Model for Inventory Management'', INFORMS Annual Meeting, Arizona, 2018/11.
 	
-6. "Modeling and Optimization of Complex Building Systems with Recurrent Neural Networks'', INFORMS Annual Meeting, Texas, 2017/10.
+6. "Modeling and Optimization of Complex Building Systems with Recurrent Neural Networks'', INFORMS Annual Meeting, Texas, 2017/10.--->
 
 Honors & Awards
 ======
