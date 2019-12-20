@@ -28,7 +28,7 @@ Honors & Awards
 * Keith & Nancy Rattie Endowed Fellowship, University of Washington, 2016
 * China National Scholarship, Ministry of Educaction in China, 2014	
 * Mitacs Canada Globalink Research Fellowship, 2014	
-* Multiple Travel Grants and Awards: 2019 International Conference on Learning Representations (ICLR), 2019 D. E. Shaw Exploration Fellowship, 2019 Grid Science Winter School and Conference,  2018 Clean Energy Institute Travel Award
+* Multiple Travel Grants: 2019 International Conference on Learning Representations (ICLR), 2019 D. E. Shaw Exploration Fellowship, 2019 Grid Science Winter School and Conference,  2018 Clean Energy Institute Travel Award
 
 Work experience
 ======
