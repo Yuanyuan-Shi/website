@@ -18,10 +18,10 @@ Education
 * M.S. in Statistics, University of Washington, 2020 (expected)
 * Ph.D in Electrical and Computer Engineering, University of Washington, 2020 (expected)
 
-Research Interests
+<!---Research Interests
 ======
 My research interests are in the area of cyber-physical and energy systems, from the perspective of
-machine learning, optimization, and control.
+machine learning, optimization, and control.--->
 
 <!---Invited Talks
 ======
@@ -70,7 +70,7 @@ Services
 ======
 * Journal Reviewer: IEEE Transactions on Power Systems, IEEE Transactions on Smart Grid, IEEE Transactions on Power Delivery, Journal of Energy Storage, IET Smart Grid
 	
-* Conference Reviewer: ICLR 2020, ACC 2020, PSCC 2020, IJCAI 2019, SmartGridComm 2019, PES General Meeting 2018
+* Conference Reviewer: ICLR 2020, ACC 2020, PSCC 2020, IJCAI 2019, SmartGridComm 2019, PES GM 2018
 	
 * Graduate Student Representative, Curriculum Committee of Electrical and Computer Engineering Department, University of Washington
 	
