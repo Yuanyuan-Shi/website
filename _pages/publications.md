@@ -27,7 +27,7 @@ Journals
 
 4. Luowei Zhou, Yuanyuan Shi, Jiangliu Wang, and Pei Yang, ["A Balanced Heuristic Mechanism for Multirobot Task Allocation of Intelligent Warehouses''](https://www.hindawi.com/journals/mpe/2014/380480/), Journal of Mathematical Problems in Engineering, 2014.
 
-Conferences Papars
+Conference Papers
 ======
 
 1. Daniel J. Mankowitz, Nir Levine, Rae Jeong, Abbas Abdolmaleki, Jost Tobias Springenberg, Yuanyuan Shi, Jackie Kay, Todd Hester, Timothy Mann, Martin Riedmiller, ["Robust Reinforcement Learning for Continuous Control with Model Misspecification''](https://openreview.net/forum?id=HJgC60EtwB), International Conference on Learning Representations (ICLR), 2020.
