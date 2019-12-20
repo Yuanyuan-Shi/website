@@ -83,7 +83,7 @@ author:
   name             : "Yuanyuan Shi"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate |Electrical and Computer Engineering |University of Washington"
-  location         : "185 East Stevens Way NE, Seattle"
+  location         : #"185 East Stevens Way NE, Seattle"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=XkrVZrwAAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yuanyuan-shi-bb734210a"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
