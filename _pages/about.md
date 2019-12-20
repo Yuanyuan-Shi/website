@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. student in Electrical and Computer Engineering at the University of Washington, advised by [Prof. Baosen Zhang](https://zhangbaosen.github.io/). At the same time, I'm pursuing a master degree in the Department of Statistics. 
+I am a fifth-year Ph.D. student in the Department of Electrical and Computer Engineering at the University of Washington, advised by [Prof. Baosen Zhang](https://zhangbaosen.github.io/). My research interests focus on the area of **energy** and **cyber-physical systems** (CPS), from the perspective of machine learning, optimization, and control. 
 
-My research interests focus on the area of **energy** and **cyber-physical systems** (CPS), from the perspective of machine learning, optimization, and control. During my Ph.D. studies, I developed algorithms for controlling and optimizing resources in energy systems and discovered fundamental insights in data-driven, societal-scale CPS. The results of my work include 1) cost modeling and optimal control of energy storage, 2) data-driven control for systems with unknown dynamics and environmental uncertainties, and 3) characterizing the collective behavior of dynamic learning agents in energy markets. My work has been applied by Microsoft, Doosan Gridtech, Centrica, JD.com and DeepMind.
+During my Ph.D. studies, I developed algorithms for controlling and optimizing resources in energy systems and discovered fundamental insights in data-driven, societal-scale CPS. The results of my work include 1) cost modeling and optimal control of energy storage, 2) data-driven control for systems with unknown dynamics and environmental uncertainties, and 3) characterizing the collective behavior of dynamic learning agents in energy markets and games. My work has been applied by Microsoft, Doosan Gridtech, Centrica, JD.com and DeepMind.
 
 News
 ======
