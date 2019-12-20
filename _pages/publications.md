@@ -36,7 +36,7 @@ Conference Papers
 	
 3. Kai Xiao, Sven Gowal, Todd Hester, Rae Jeong, Daniel J. Mankowitz, Yuanyuan Shi, and T.W. Weng, ["Learning Neural Dynamics Simulators With Adversarial Specification Training''](https://drive.google.com/file/d/0B3mY6u_lryzdWWVxZ2pYZ1dINUQ3WUEwSHlkWnNSZDh5THVj/view), Safety and Robustness in Decision Making Workshop, Neural Information Processing Systems (NeurIPS), 2019.
 
-4. Yize Chen*, Yuanyuan Shi*, and Baosen Zhang, ["Optimal Control Via Neural Networks: A Convex Approach''](https://openreview.net/forum?id=H1MW72AcK7), International Conference on Learning Representations (ICLR), 2019.  (*equal contribution).
+4. Yize Chen\*, Yuanyuan Shi\*, and Baosen Zhang, ["Optimal Control Via Neural Networks: A Convex Approach''](https://openreview.net/forum?id=H1MW72AcK7), International Conference on Learning Representations (ICLR), 2019.  (*equal contribution).
 	
 5. Yuanyuan Shi, Bolun Xu, Yushi Tan, and Baosen Zhang, ["A convex cycle-based degradation model for battery energy storage planning and operation''](https://ieeexplore.ieee.org/document/8431814), American Control Conference (ACC), 2018 
 	
