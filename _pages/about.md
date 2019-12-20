@@ -14,7 +14,7 @@ My research interests focus on the area of energy and cyber-physical systems, fr
 
 News
 ======
-[2019/12] Two works [Data-driven Robust RL](https://drive.google.com/file/d/0B3mY6u_lryzddkRrQ0xzQWtpemRUSHBnZ2NHMnctS1B5b01J/view) and [Learning Neural Simulators with Prior Knowledge](https://drive.google.com/file/d/0B3mY6u_lryzdWWVxZ2pYZ1dINUQ3WUEwSHlkWnNSZDh5THVj/view) are presented in NeurIPS 2019 Workshop on Safety and Robustness in Decision Making. [Poster]
+[2019/12] Two works [Data-driven Robust RL](https://drive.google.com/file/d/0B3mY6u_lryzddkRrQ0xzQWtpemRUSHBnZ2NHMnctS1B5b01J/view) and [Learning Neural Simulators](https://drive.google.com/file/d/0B3mY6u_lryzdWWVxZ2pYZ1dINUQ3WUEwSHlkWnNSZDh5THVj/view) are presented in NeurIPS 2019 Workshop on Safety and Robustness in Decision Making. [Poster]
 
 [2019/05] Our work ["Optimal Control Via Neural Networks: A Convex Approach''](https://openreview.net/forum?id=H1MW72AcK7) is presented in ICLR 2019! Poster and source code could be found here. [Poster] [Code](https://github.com/chennnnnyize/Optimal-Control-via-Neural-Networks).
 
