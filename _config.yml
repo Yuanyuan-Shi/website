@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuanyuan Shi / Website"
+title                    : "Yuanyuan Shi / Homepage"
 title_separator          : "-"
 name                     : &name "Yuanyuan Shi"
 description              : &description "personal description"
