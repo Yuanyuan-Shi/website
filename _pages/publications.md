@@ -23,7 +23,7 @@ Journals
 
 2. Bolun Xu, Yuanyuan Shi, Daniel Kirschen, and Baosen Zhang, ["Optimal Battery Participation in Frequency Regulation Markets"](https://ieeexplore.ieee.org/document/8383984), IEEE Transactions on Power Systems, 2018.
 	
-3. Yuanyuan Shi, Bolun Xu, Di Wang, and Baosen Zhang, ["Using Battery Storage for Peak Shaving and Frequency Regulation: Joint Optimization for Superlinear Gains''](https://ieeexplore.ieee.org/document/8027056), IEEE Transactions on Power Systems, 2018.	
+3. Yuanyuan Shi, Bolun Xu, Di Wang, and Baosen Zhang, ["Using Battery Storage for Peak Shaving and Frequency Regulation: Joint Optimization for Superlinear Gains''](https://ieeexplore.ieee.org/document/8027056), IEEE Transactions on Power Systems, 2017.	
 
 4. Luowei Zhou, Yuanyuan Shi, Jiangliu Wang, and Pei Yang, ["A Balanced Heuristic Mechanism for Multirobot Task Allocation of Intelligent Warehouses''](https://www.hindawi.com/journals/mpe/2014/380480/), Journal of Mathematical Problems in Engineering, 2014.
 
