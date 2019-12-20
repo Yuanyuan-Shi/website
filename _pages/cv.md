@@ -57,11 +57,8 @@ machine learning, optimization, and control.--->
 ## Services
 
 * Journal Reviewer: IEEE Transactions on Power Systems, IEEE Transactions on Smart Grid, IEEE Transactions on Power Delivery, Journal of Energy Storage, IET Smart Grid
-	
 * Conference Reviewer: ICLR 2020, ACC 2020, PSCC 2020, IJCAI 2019, SmartGridComm 2019, PES GM 2018
-	
 * Graduate Student Representative, Curriculum Committee of Electrical and Computer Engineering Department, University of Washington
-	
 * Outreach: Clean Energy Institute Ambassador for K-12 Students
 
 ## Honors & Awards
