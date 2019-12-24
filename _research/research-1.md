@@ -1,10 +1,10 @@
 ---
 title: "Research item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/datacenter.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/research/datacenter.png'>"
 collection: research
 ---
 
-<img src='/images/datacenter.png'>
+<img src='/images/research/datacenter.png'>
 
 This page is under construction.
 
