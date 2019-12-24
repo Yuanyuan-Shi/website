@@ -6,7 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 
-Under construction...
+## Summary 
+
+<img src='/images/research/smartgrid.png'>
+
+My research interests are in area of cyber-physical and energy systems, from the perspective of machine learning, optimization, and control.
 
 {% for post in site.research %}
   {% include archive-single.html %}

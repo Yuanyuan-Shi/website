@@ -1,11 +1,9 @@
 ---
 title: "Research item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/research/datacenter.png'>"
+excerpt: "Learning in Cournot Games with Limited Information Feedback<br/><img src='/images/research/Cournot.png'>"
 collection: research
 ---
 
-<img src='/images/research/datacenter.png'>
+<img src='/images/research/Cournot.png'>
 
-This page is under construction.
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+We study the interaction of strategic players in continuous action Cournot games with bandit feedback. Our current results show that: 1) if players all adopt two classes of learning algorithms (i.e., no-regret algorithms and policy gradient), their joint action would converge to the unique Nash equilibrium; 2) exploiting the structure of the game can lead to much faster convergence rates.
