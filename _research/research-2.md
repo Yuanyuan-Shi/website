@@ -1,11 +1,19 @@
 ---
 title: "Optimal Control Via Neural Network: A Convex Approach"
-excerpt: "<br/><img src='/images/research/optimal_battery.png'>"
+excerpt: "<br/><img src='/images/research/ICNN.png'>"
 collection: research
 ---
 
-This page is under construction.
+Control of complex systems involves both system identification and controller design. Deep neural networks have proven to be successful in many identification tasks, however, from model-based control perspective, these networks are difficult to work with because they are typically non-linear and non-convex. Therefore many systems are still identified and controlled based on simple linear models despite their poor representation capability. In this work, we bridge the gap between model accuracy and control tractability faced by neural networks, by explicitly constructing networks that are convex with respect to their inputs. 
 
-<img src='/images/research/battery.png'>
+<img src='/images/research/architecture.png', align="center">
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+We show that these input convex networks can be trained to obtain accurate models of complex physical systems. In particular, we design input convex recurrent neural networks to capture temporal behavior of dynamical systems. Then optimal controllers can be achieved via solving a convex model predictive control problem. Experiment results demonstrate the good potential of the proposed input convex neural network based approach in a variety of control applications. In particular we show that in the MuJoCo locomotion tasks [1], we could achieve over 10\% higher performance using 5× less time compared with state-of-the-art model-based reinforcement learning method; and in the building HVAC control [2] example, our method achieved up to 20\% energy reduction compared with classic linear models.
+
+## References:
+
+[1] Yize Chen\*, Yuanyuan Shi\*, and Baosen Zhang, ["Optimal Control Via Neural Networks: A Convex Approach''](https://openreview.net/forum?id=H1MW72AcK7), International Conference on Learning Representations (ICLR), 2019.  (*equal contribution). [[PDF]](https://arxiv.org/pdf/1805.11835.pdf) [[Code]](https://github.com/chennnnnyize/Optimal-Control-via-Neural-Networks)
+
+[2] Yize Chen, Yuanyuan Shi, and Baosen Zhang. ["Modeling and Optimization of Complex Building Energy Systems with Deep Neural Networks''](https://arxiv.org/abs/1711.02278), Asilomar Conference, 2017. [[PDF]](https://arxiv.org/pdf/1711.02278.pdf)
+
+[3] Yize Chen, Yuanyuan Shi, and Bao Zhang, "Data-Driven Optimal Voltage Regulation'', submitted to Power Systems Computation Conference (PSCC), 2020. 
