@@ -1,8 +1,9 @@
 ---
-title: "Learning in Cournot Games with Bandit Feedback"
+title: "Learning in Cournot Games with Limited Information Feedback"
 excerpt: "<br/><img src='/images/research/Cournot_cover.png'>"
 collection: research
 ---
+<p>&nbsp;</p>
 
 An energy system is more than a physical infrastructure: it connects millions of participants with different roles and objectives. Analyzing the individual objectives of these participants and looping their behaviors into the system design is of great importance, especially when these participants are primarily self-interested.
 <p align="center">
