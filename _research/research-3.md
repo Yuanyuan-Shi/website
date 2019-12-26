@@ -3,15 +3,14 @@ title: "Optimal Battery Control Under Cycle Aging Mechanisms"
 excerpt: "<img src='/images/research/storage_cover.png'>"
 collection: research
 ---
+<p>&nbsp;</p>
 
 Energy storage offsets renewable fluctuation and is the key to a low-carbon future, but managing these assets at the system level remains an open question. A central challenge is to understand the degradation of storage and reflect this cost in the storage operations.
 
 Faithful electrochemical degradation models have always been thought of as impractical to use in real-time due to their complexity. In this work [1], I showed that this cost is convex resolving this long-standing algorithmic challenge of supposed impracticality in an elegant fashion. Based on this cost model, I further developed an optimal online control algorithm [2] for energy storage in a general “pay-for-performance” market, e.g. providing frequency regulation services and supporting renewable integration. 
-
 <p align="center">
 	<img src='/images/research/battery_controller.png'>
 </p>
-
 Real-time control is the cornerstone of all energy storage operations, yet it is seldom addressed due to the complex nature of real-time decision making and the inter-temporal constraints on storage capacity and electrochemical degradation. Surprisingly, I found that including the physics of storage can greatly simplify this problem and yield closed-form optimal solutions that were thought to be unobtainable. Based on a novel change of basis, I derived a simple online control policy [2, 3] and a optimal capacity bidding algorithm [4] that minimizes the operational cost of storage (with time-invariant regret) including the dispatch violation cost and the cost of battery degradation. These algorithms are currently being implemented by Doosan Gridtech in the PJM market.
 
 ## References:
