@@ -1,5 +1,5 @@
 ---
-title: "Research item number 1"
+title: "Joint Optimization of Energy Storage for Multiple Services"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/research/optimal_battery.png'>"
 collection: research
 ---

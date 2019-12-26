@@ -1,8 +1,9 @@
 ---
-title: "Research item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/research/battery.png'><"
+title: "Data-driven Robust Reinforcement Learning for Continuous Control"
+excerpt: "<br/><img src='/images/research/battery.png'>"
 collection: research
 ---
+This page is under construction.
 
 <img src='/images/research/optimal_battery.png'>
 

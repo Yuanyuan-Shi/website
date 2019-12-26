@@ -1,6 +1,6 @@
 ---
-title: "Research item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/research/datacenter.png'>"
+title: "Optimal Battery Control Under Cycle Aging Mechanisms"
+excerpt: "<img src='/images/research/datacenter.png'>"
 collection: research
 ---
 

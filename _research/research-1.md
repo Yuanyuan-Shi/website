@@ -1,6 +1,6 @@
 ---
-title: "Research item number 1"
-excerpt: "Learning in Cournot Games with Limited Information Feedback<br/><img src='/images/research/Cournot.png'>"
+title: "Learning in Cournot Games with Limited Information Feedback"
+excerpt: "<br/><img src='/images/research/Cournot.png'>"
 collection: research
 ---
 

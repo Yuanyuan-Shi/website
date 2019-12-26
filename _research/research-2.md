@@ -1,6 +1,6 @@
 ---
-title: "Research item number 2"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/research/optimal_battery.png'>"
+title: "Optimal Control Via Neural Network: A Convex Approach"
+excerpt: "<br/><img src='/images/research/optimal_battery.png'>"
 collection: research
 ---
 
