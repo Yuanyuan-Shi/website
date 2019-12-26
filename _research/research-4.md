@@ -1,6 +1,6 @@
 ---
 title: "Joint Optimization of Energy Storage for Multiple Services"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/research/superlinear_cover.png'>"
+excerpt: "<br/><img src='/images/research/superlinear_cover.png'>"
 collection: research
 ---
 <p>&nbsp;</p>
