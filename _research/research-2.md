@@ -6,7 +6,7 @@ collection: research
 
 Control of complex systems involves both system identification and controller design. Deep neural networks have proven to be successful in many identification tasks, however, from model-based control perspective, these networks are difficult to work with because they are typically non-linear and non-convex. Therefore many systems are still identified and controlled based on simple linear models despite their poor representation capability. In this work, we bridge the gap between model accuracy and control tractability faced by neural networks, by explicitly constructing networks that are convex with respect to their inputs. 
 
-<img src='/images/research/architecture.png', align="center">
+<img src='/images/research/architecture.png' align="center">
 
 We show that these input convex networks can be trained to obtain accurate models of complex physical systems. In particular, we design input convex recurrent neural networks to capture temporal behavior of dynamical systems. Then optimal controllers can be achieved via solving a convex model predictive control problem. Experiment results demonstrate the good potential of the proposed input convex neural network based approach in a variety of control applications. In particular we show that in the MuJoCo locomotion tasks [1], we could achieve over 10\% higher performance using 5× less time compared with state-of-the-art model-based reinforcement learning method; and in the building HVAC control [2] example, our method achieved up to 20\% energy reduction compared with classic linear models.
 
