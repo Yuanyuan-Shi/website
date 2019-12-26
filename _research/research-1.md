@@ -1,9 +1,17 @@
 ---
 title: "Learning in Cournot Games with Limited Information Feedback"
-excerpt: "<br/><img src='/images/research/Cournot.png'>"
+excerpt: "<br/><img src='/images/research/game.png'>"
 collection: research
 ---
 
-<img src='/images/research/Cournot.png'>
+<img src='/images/research/game.png'>
 
-We study the interaction of strategic players in continuous action Cournot games with bandit feedback. Our current results show that: 1) if players all adopt two classes of learning algorithms (i.e., no-regret algorithms and policy gradient), their joint action would converge to the unique Nash equilibrium; 2) exploiting the structure of the game can lead to much faster convergence rates.
+An energy system is more than a physical infrastructure: it connects millions of participants with different roles and objectives. Large commercial buildings and data centers---traditionally energy consumers---are becoming active participants through multiple demand response programs specifically designed to bring them into electrical markets. Analyzing the individual objectives of these participants and looping their behaviors into the system design is of great importance, especially when these participants are primarily self-interested.
+
+To ground this question, I looked at the interaction of learning agents in Cournot competition. A Cournot game is the underlying market model for many demand response programs in energy markets, where providers bid their available quantity, the service price is then set by the total supply, and each provider gets paid accordingly. Players in the game are self-interested and aim to maximize their own payoffs by strategically choosing the bidding quantity. Since agents like buildings lack conventional cost functions based on fuel and have not been in the market before, it is natural for them to use machine learning to play the game. In this work, I attempted to analyze the long-run outcome of dynamic learning agents in a Cournot game. Since each agent receives very limited feedback (just the cleared price and nothing else about the system), it was an open problem to even establish if the learning dynamics would converge at all. 
+
+Notably, I proved the convergence of two widely used classes of machine learning algorithms: no-regret algorithms and policy gradient, to the Nash Equilibrium in concave Cournot games. In addition, I showed that exploiting the structure of the game can accelerate the convergence of learning, where policy gradient converges exponentially and no-regret converges sub-linearly.
+
+## Reference:
+
+[1] Yuanyuan Shi, Baosen Zhang, ["Learning in Cournot Games with Limited Information Feedback''](https://arxiv.org/abs/1906.06612), arXiv Preprint. 
