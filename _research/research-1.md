@@ -1,5 +1,5 @@
 ---
-title: "Learning in Cournot Games with Limited Information Feedback"
+title: "Learning in Cournot Games with Bandit Feedback"
 excerpt: "<br/><img src='/images/research/game.png'>"
 collection: research
 ---
