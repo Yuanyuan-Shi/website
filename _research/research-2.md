@@ -16,5 +16,3 @@ We show that these input convex networks can be trained to obtain accurate model
 [1] Yize Chen\*, Yuanyuan Shi\*, and Baosen Zhang, ["Optimal Control Via Neural Networks: A Convex Approach''](https://openreview.net/forum?id=H1MW72AcK7), International Conference on Learning Representations (ICLR), 2019.  (*equal contribution). [[PDF]](https://arxiv.org/pdf/1805.11835.pdf) [[Code]](https://github.com/chennnnnyize/Optimal-Control-via-Neural-Networks)
 
 [2] Yize Chen, Yuanyuan Shi, and Baosen Zhang. ["Modeling and Optimization of Complex Building Energy Systems with Deep Neural Networks''](https://arxiv.org/abs/1711.02278), Asilomar Conference, 2017. [[PDF]](https://arxiv.org/pdf/1711.02278.pdf)
-
-[3] Yize Chen, Yuanyuan Shi, and Bao Zhang, "Data-Driven Optimal Voltage Regulation'', submitted to Power Systems Computation Conference (PSCC), 2020. 

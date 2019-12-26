@@ -1,6 +1,6 @@
 ---
 title: "Learning in Cournot Games with Limited Information Feedback"
-excerpt: "<br/><img src='/images/research/game.png'>"
+excerpt: "<br/><img src='/images/research/Cournot_cover.png'>"
 collection: research
 ---
 
