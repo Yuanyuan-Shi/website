@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. student in Electrical and Computer Engineering at the University of Washington, advised by [Prof. Baosen Zhang](https://zhangbaosen.github.io/). My research interests are in area of cyber-physical and energy systems, from the perspective of machine learning, optimization, and control. During my Ph.D. studies, I developed algorithms for controlling and optimizing resources in energy systems and discovered fundamental, societal-scale insights in data-driven control systems. 
+I am a fifth-year Ph.D. student in the Department of Electrical and Computer Engineering at the University of Washington, advised by [Prof. Baosen Zhang](https://zhangbaosen.github.io/). My research interests are in area of cyber-physical and energy systems, from the perspective of machine learning, optimization, and control. During my Ph.D. studies, I developed algorithms for controlling and optimizing resources in energy systems and discovered fundamental, societal-scale insights in data-driven control systems. My work has been applied by Microsoft, Doosan Gridtech, Centrica, JD.com and DeepMind.
 
 News
 ======
-[2019/12] Two works [Data-driven Robust RL](https://drive.google.com/file/d/0B3mY6u_lryzddkRrQ0xzQWtpemRUSHBnZ2NHMnctS1B5b01J/view) and [Learning Neural Simulators](https://drive.google.com/file/d/0B3mY6u_lryzdWWVxZ2pYZ1dINUQ3WUEwSHlkWnNSZDh5THVj/view) are presented in NeurIPS 2019 Workshop on Safety and Robustness in Decision Making. [Poster](https://drive.google.com/file/d/1OSd4GnrEluGX_Vwx8HChREavtdTQTCde/view?usp=sharing)
+[2019/12] Two works [Data-driven Robust RL](https://drive.google.com/file/d/0B3mY6u_lryzddkRrQ0xzQWtpemRUSHBnZ2NHMnctS1B5b01J/view) and [Learning Neural Simulators](https://drive.google.com/file/d/0B3mY6u_lryzdWWVxZ2pYZ1dINUQ3WUEwSHlkWnNSZDh5THVj/view) are presented in NeurIPS 2019 Workshop on Safety and Robustness in Decision Making. [[Poster]](https://drive.google.com/file/d/1OSd4GnrEluGX_Vwx8HChREavtdTQTCde/view?usp=sharing)
 
-[2019/05] Our work ["Optimal Control Via Neural Networks: A Convex Approach''](https://openreview.net/forum?id=H1MW72AcK7) is presented in ICLR 2019! Poster and source code could be found here. [Poster](https://drive.google.com/file/d/1q-M--UvJsww-cRUFG_iW2bQvNAna51nP/view?usp=sharing) [Code](https://github.com/chennnnnyize/Optimal-Control-via-Neural-Networks).
+[2019/05] Our work ["Optimal Control Via Neural Networks: A Convex Approach''](https://openreview.net/forum?id=H1MW72AcK7) is presented in ICLR 2019! Poster and source code could be found here. [[Poster]](https://drive.google.com/file/d/1q-M--UvJsww-cRUFG_iW2bQvNAna51nP/view?usp=sharing) [[Code]](https://github.com/chennnnnyize/Optimal-Control-via-Neural-Networks)
 
 [2019/04] I will join [DeepMind, London](https://deepmind.com/) as a research scientist intern this summer!
 
