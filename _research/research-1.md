@@ -1,6 +1,8 @@
 ---
 title: "Learning in Cournot Games with Bandit Feedback"
-excerpt: "<br/><img src='/images/research/game_cover.png'>"
+excerpt: "<br/><img src='/images/research/game_cover.png'> 
+Reference:
+[1] Yuanyuan Shi, Baosen Zhang, ["Learning in Cournot Games with Limited Information Feedback''](https://arxiv.org/abs/1906.06612), arXiv Preprint. "
 collection: research
 ---
 <p>&nbsp;</p>
