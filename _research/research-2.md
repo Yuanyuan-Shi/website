@@ -1,6 +1,6 @@
 ---
 title: "Optimal Control Via Neural Network: A Convex Approach"
-excerpt: "<br/><img src='/images/research/ICNN_cover.png'>"
+excerpt: "<br/><img src='/images/research/ICNN_cover(2).png'>"
 collection: research
 ---
 <p>&nbsp;</p>

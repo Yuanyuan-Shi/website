@@ -1,6 +1,6 @@
 ---
 title: "Optimal Battery Control Under Cycle Aging Mechanisms"
-excerpt: "<img src='/images/research/storage_cover.png'>"
+excerpt: "<img src='/images/research/storage_cover(2).png'>"
 collection: research
 ---
 <p>&nbsp;</p>

@@ -1,6 +1,6 @@
 ---
 title: "Learning in Cournot Games with Bandit Feedback"
-excerpt: "<br/><img src='/images/research/Cournot_cover.png'>"
+excerpt: "<br/><img src='/images/research/game_cover.png'>"
 collection: research
 ---
 <p>&nbsp;</p>

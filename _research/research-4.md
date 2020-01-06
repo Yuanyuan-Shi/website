@@ -1,6 +1,6 @@
 ---
 title: "Joint Optimization of Energy Storage for Multiple Services"
-excerpt: "<br/><img src='/images/research/superlinear_cover1.png'>"
+excerpt: "<br/><img src='/images/research/superlinear_cover(2).png'>"
 collection: research
 ---
 <p>&nbsp;</p>
