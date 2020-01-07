@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<br>
 <strong>E-mail</strong>: yyshi@uw.edu 
 
 <strong>Address</strong>: Room 433, Electrical and Computer Engineering \\
