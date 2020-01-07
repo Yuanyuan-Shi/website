@@ -17,6 +17,5 @@ Seattle, WA 98195\\
 [Map](https://www.google.com/maps/place/Paul+G.+Allen+Center+for+Computer+Science+\%26+Engineering/@47.6533262,-122.3059001,15z/data=!4m2!3m1!1s0x0:0x12de8b2d1ad8504a?sa=X&ved=2ahUKEwiy56Gs5NnmAhWkMX0KHSvACscQ_BIwCnoECBwQCA) (via Google Maps)
 
 ### Contact
-E-mail: yyshi@uw.edu\\
-Phone: (206) 966-1377\\
+E-mail: yyshi@uw.edu \\
 [Curriculum Vitae](https://drive.google.com/file/d/1e4vGRPEcI7w9w712VtC8JZkrK3vHIJf4/view?usp=sharing)
