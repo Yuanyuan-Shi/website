@@ -1,6 +1,6 @@
 ---
 title: "Joint Optimization of Energy Storage for Multiple Services"
-excerpt: "Existing works on energy storage planning focus on using batteries for a single application. Our results suggest that battery can achieve much larger economic benefits than previously thought if they jointly provide multiple services. <br/><img src='/images/research/superlinear_cover(2).png'>"
+excerpt: "Existing works on energy storage planning focus on using batteries for a single application. Our results suggest that battery can achieve much larger economic benefits than previously thought if they jointly provide multiple services. "
 collection: research
 ---
 <p>&nbsp;</p>
