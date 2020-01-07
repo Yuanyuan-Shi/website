@@ -24,7 +24,3 @@ News
 [2019/03] I am invited to attend the [NSF iREDEFINE workshop](https://www.ecedha.org/Meetings/Past-Programs/2019-ECEDHA-Annual-Conference-and-ECExpo/Student-Program) in Tucson, Arizona, and present my research! The NSF iREDEFINE award is given to support diversity in ECE faculty.
 
 [2018/10] I am named a [Rising Stars in EECS (2018)](https://risingstars18-eecs.mit.edu/) by MIT. It's so glad to meet all these amazing and talented women EECS graduate students and postdocs interested in exploring careers in academia!
-
-### Contact
-
-Email: yyshi 'at' uw 'dot' edu
