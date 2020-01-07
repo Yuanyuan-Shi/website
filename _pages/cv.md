@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My latest CV could be downloaded [here](https://drive.google.com/file/d/1e4vGRPEcI7w9w712VtC8JZkrK3vHIJf4/view?usp=sharing).
+
 <object data="https:///shiyuanyuan.site/images/cv.pdf" type="application/pdf" width="500px" height="500px">
     <embed src="https:///shiyuanyuan.site/images/cv.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https:///shiyuanyuan.site/images/cv.pdf">Download PDF</a>.</p>
