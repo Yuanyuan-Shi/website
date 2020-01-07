@@ -1,6 +1,6 @@
 ---
 title: "Optimal Battery Control Under Cycle Aging Mechanisms"
-excerpt: "Energy storage offsets renewable fluctuation and is the key to a low-carbon future, but managing these assets at the system level is challenging. A central question is to understand the degradation of storage and reflect this cost in the operations. In this work, we prove that the cycle-based electrochemical degradation model is convex. Based on this cost model, we further develop an optimal online control algorithm for energy storage in a general pay-for-performance market via a novel change of basis. "
+excerpt: "Energy storage offsets renewable fluctuation and is the key to a low-carbon future, but managing these assets at the system level is challenging. A central question is to understand the degradation of storage and reflect this cost in the operations. In this work, we prove that the cycle-based electrochemical degradation model is convex. Based on this cost model, we further develop an optimal online control algorithm for energy storage in a general pay-for-performance market via a novel change of basis. <br/><img src='/images/research/storage_cover(3).png'>"
 collection: research
 ---
 <p>&nbsp;</p>

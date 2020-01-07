@@ -1,6 +1,6 @@
 ---
 title: "Optimal Control Via Neural Network: A Convex Approach"
-excerpt: "Deep neural networks have proven to be successful in many identification tasks, however, from the model-based control perspective, these networks are difficult to work with because they are typically non-linear and non-convex. In this work, we bridge the gap between model accuracy and control tractability faced by neural networks, by explicitly constructing input convex neural networks (ICNN). It leads to significant energy savings for building HVAC management. "
+excerpt: "Deep neural networks have proven to be successful in many identification tasks, however, from the model-based control perspective, these networks are difficult to work with because they are typically non-linear and non-convex. In this work, we bridge the gap between model accuracy and control tractability faced by neural networks, by explicitly constructing input convex neural networks (ICNN). It leads to significant energy savings for building HVAC management. <br/><img src='/images/research/ICNN_cover(3).png'>"
 collection: research
 ---
 <p>&nbsp;</p>
