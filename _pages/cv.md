@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="http://shiyuanyuan.site/images/cv.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://shiyuanyuan.site/images/cv.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://shiyuanyuan.site/images/cv.pdf">Download PDF</a>.</p>
+<object data="https://drive.google.com/file/d/1e4vGRPEcI7w9w712VtC8JZkrK3vHIJf4/view?usp=sharing" type="application/pdf" width="700px" height="700px">
+    <embed src="https://drive.google.com/file/d/1e4vGRPEcI7w9w712VtC8JZkrK3vHIJf4/view?usp=sharing">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1e4vGRPEcI7w9w712VtC8JZkrK3vHIJf4/view?usp=sharing">Download PDF</a>.</p>
     </embed>
 </object>
  
