@@ -19,6 +19,8 @@ News
 
 [2020/01] Invited talk at Caltech CMS.
 
+[2020/01] Our work ["Robust Reinforcement Learning for Continuous Control with Model Misspecification"](https://openreview.net/forum?id=HJgC60EtwB) has been accepted by ICLR, 2020! [[PDF]](https://openreview.net/forum?id=HJgC60EtwB)
+
 [2019/12] Two works [Data-driven Robust RL](https://drive.google.com/file/d/0B3mY6u_lryzddkRrQ0xzQWtpemRUSHBnZ2NHMnctS1B5b01J/view) and [Learning Neural Simulators](https://drive.google.com/file/d/0B3mY6u_lryzdWWVxZ2pYZ1dINUQ3WUEwSHlkWnNSZDh5THVj/view) are presented in NeurIPS 2019 Workshop on Safety and Robustness in Decision Making. [[Poster1]](https://drive.google.com/file/d/1OSd4GnrEluGX_Vwx8HChREavtdTQTCde/view?usp=sharing) [[Poster2]](https://docs.google.com/presentation/d/1vtanHk-F50iLIPwE6yipUzloDDVZvgrL4iyn_Vj7yJc/edit?usp=sharing)
 
 [2019/05] Our work ["Optimal Control Via Neural Networks: A Convex Approach''](https://openreview.net/forum?id=H1MW72AcK7) is presented in ICLR 2019! Poster and source code could be found here. [[PDF]](https://arxiv.org/pdf/1805.11835.pdf) [[Poster]](https://drive.google.com/file/d/1q-M--UvJsww-cRUFG_iW2bQvNAna51nP/view?usp=sharing) [[Code]](https://github.com/chennnnnyize/Optimal-Control-via-Neural-Networks)
