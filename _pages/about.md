@@ -25,8 +25,6 @@ News
 
 [2019/05] Our work ["Optimal Control Via Neural Networks: A Convex Approach''](https://openreview.net/forum?id=H1MW72AcK7) is presented in ICLR 2019! Poster and source code could be found here. [[PDF]](https://arxiv.org/pdf/1805.11835.pdf) [[Poster]](https://drive.google.com/file/d/1q-M--UvJsww-cRUFG_iW2bQvNAna51nP/view?usp=sharing) [[Code]](https://github.com/chennnnnyize/Optimal-Control-via-Neural-Networks)
 
-[2019/04] I will join [DeepMind, London](https://deepmind.com/) as a research scientist intern this summer!
-
 [2019/03] I am invited to attend the [NSF iREDEFINE workshop](https://www.ecedha.org/Meetings/Past-Programs/2019-ECEDHA-Annual-Conference-and-ECExpo/Student-Program) in Tucson, Arizona, and present my research! The NSF iREDEFINE award is given to support diversity in ECE faculty.
 
 [2018/10] I am named a [Rising Stars in EECS (2018)](https://risingstars18-eecs.mit.edu/) by MIT. It's so glad to meet all these amazing and talented women EECS graduate students and postdocs interested in exploring careers in academia!
