@@ -15,6 +15,8 @@ During my Ph.D. studies, I developed algorithms for controlling and optimizing r
 
 News
 ======
+[2020/02] Invited talk at Purdue ECE.
+
 [2020/02] Invited talks at UCSD ECE and Penn State EECS.
 
 [2020/01] Invited talk at Caltech CMS.
