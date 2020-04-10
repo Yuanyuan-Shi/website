@@ -15,6 +15,8 @@ During my Ph.D. studies, I developed algorithms for controlling and optimizing r
 
 News
 ======
+[2020/04] Two new preprints on ["Input Convex Neural Networks for Optimal Voltage Regulation"](https://arxiv.org/abs/2002.08684) and ["Safe Reinforcement Learning"](https://arxiv.org/abs/2003.09488) are on arXiv!
+
 [2020/03] Our work ["Robust Reinforcement Learning for Continuous Control with Model Misspecification"](https://arxiv.org/abs/1906.07516) will appear in ICLR 2020! [[PDF]](https://arxiv.org/abs/1906.07516) 
 
 [2020/02] Invited talk at Purdue ECE.
