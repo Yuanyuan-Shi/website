@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Beginning in summer 2021, I will be an assistant professor of [Electrical and Computer Engineering](http://www.ece.ucsd.edu/) at UCSD. From summer 2020-2021 I will be a postdoc researcher at [Caltech](http://www.cms.caltech.edu/), working with Prof. [Adam Wierman](http://users.cms.caltech.edu/~adamw/) and Prof. [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/). I received my Ph.D. in ECE from the University of Washington, advised by [Prof. Baosen Zhang](https://zhangbaosen.github.io/). 
+I am currently a postdoc researcher at [Caltech](http://www.cms.caltech.edu/), working with Prof. [Adam Wierman](http://users.cms.caltech.edu/~adamw/) and Prof. [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/). Earlier, I obtained my Ph.D. from [Electrical and Computer Engineering](https://www.ece.uw.edu/) department at the [University of Washington](https://www.washington.edu/), advised by [Prof. Baosen Zhang](https://zhangbaosen.github.io/). 
 
-My research interests are in the area of energy systems and cyberphysical systems, spanning from machine learning, optimization to control. If you're interested in any of the above and would like to have a chat, feel free to shoot me an email at [yshi7@caltech.edu](yshi7@caltech.edu).
+I will be joining the [ECE department](http://www.ece.ucsd.edu/) at UCSD as an Assistant Professor starting July 2021. My research interests are in the area of energy systems and cyberphysical systems, spanning from machine learning, optimization to control. If you're interested in any of the above and would like to chat, feel free to send me an email at [yshi7@caltech.edu](yshi7@caltech.edu).
 
 News
 ======
-[2020/04] Two new preprints on ["Input Convex Neural Networks for Optimal Voltage Regulation"](https://arxiv.org/abs/2002.08684) and ["Safe Reinforcement Learning"](https://arxiv.org/abs/2003.09488) are on arXiv!
+[2020/07] I have graduated from UW and started my postdoc at [Caltech CMS](http://www.cms.caltech.edu/) department!
+
+[2020/04] Two new preprints on ["Input Convex Neural Networks for Optimal Voltage Regulation"](https://arxiv.org/abs/2002.08684) and ["Safe Reinforcement Learning"](https://arxiv.org/abs/2003.09488) are on arXiv.
 
 [2020/03] Our work ["Robust Reinforcement Learning for Continuous Control with Model Misspecification"](https://arxiv.org/abs/1906.07516) will appear in ICLR 2020! [[PDF]](https://arxiv.org/abs/1906.07516) 
 
