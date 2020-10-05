@@ -14,7 +14,9 @@ I will be joining the [ECE department](http://www.ece.ucsd.edu/) at UCSD as an A
 
 News
 ======
-[2020/07] I have graduated from UW and started my postdoc at [Caltech CMS](http://www.cms.caltech.edu/) department!
+[2020/09] I am co-organizing [Control Meets Learning](https://sites.google.com/view/control-meets-learning), a virtual seminar series on the intersection of control and learning. Checkout our [website](https://sites.google.com/view/control-meets-learning) for more details!
+
+[2020/07] Graduated from UW and started my postdoc at [Caltech CMS](http://www.cms.caltech.edu/) department.
 
 [2020/04] Two new preprints on ["Input Convex Neural Networks for Optimal Voltage Regulation"](https://arxiv.org/abs/2002.08684) and ["Safe Reinforcement Learning"](https://arxiv.org/abs/2003.09488) are on arXiv.
 
