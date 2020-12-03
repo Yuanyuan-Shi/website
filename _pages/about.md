@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a postdoc researcher at [Caltech](http://www.cms.caltech.edu/), working with Prof. [Adam Wierman](http://users.cms.caltech.edu/~adamw/) and Prof. [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/). Earlier, I obtained my Ph.D. from [Electrical and Computer Engineering](https://www.ece.uw.edu/) department at the [University of Washington](https://www.washington.edu/), advised by [Prof. Baosen Zhang](https://zhangbaosen.github.io/). My research interests are in the area of energy systems and cyberphysical systems, spanning from machine learning, optimization to control. 
 
-I will be joining the [ECE department](http://www.ece.ucsd.edu/) at UCSD as an Assistant Professor starting July 2021. There are multiple openings for Ph.D. students and postdocs starting from Fall 2021, and research opportunities for UCSD master/undergraduate students and interns. If you're interested, feel free send me an email at [yyshi@eng.ucsd.edu](yyshi@eng.ucsd.edu).
+I will be joining the [ECE department](http://www.ece.ucsd.edu/) at UCSD as an Assistant Professor starting July 2021. There are multiple openings for Ph.D. students and postdoctoral candidates starting from Fall 2021, and research opportunities for UCSD masters/undergraduates and interns. If you're interested, feel free to email me at [yyshi@eng.ucsd.edu](yyshi@eng.ucsd.edu).
 
 News
 ======
