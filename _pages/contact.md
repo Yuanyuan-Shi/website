@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 <br>
-<strong>E-mail</strong>: yyshi@uw.edu 
+<strong>E-mail</strong>: yyshi@eng.ucsd.edu
 
-<strong>Address</strong>: Room 433, Electrical and Computer Engineering \\
-185 East Stevens Way NE\\
-Seattle, WA 98195\\
-[Map](https://www.google.com/maps/place/Paul+G.+Allen+Center+for+Computer+Science+\%26+Engineering/@47.6533262,-122.3059001,15z/data=!4m2!3m1!1s0x0:0x12de8b2d1ad8504a?sa=X&ved=2ahUKEwiy56Gs5NnmAhWkMX0KHSvACscQ_BIwCnoECBwQCA) (via Google Maps)
+<strong>Address</strong>: Electrical and Computer Engineering \\
+Engineer Ln, \\
+San Diego, CA 92161\\
+[Map](https://www.google.com/maps/place/Department+of+Electrical+and+Computer+Engineering/@32.8816988,-117.2374193,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc06c3a0a5a4bb:0x99ade825bf66ea2!8m2!3d32.8816988!4d-117.2352306) (via Google Maps)
 
 

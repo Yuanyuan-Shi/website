@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuanyuan Shi"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate, Electrical and Computer Engineering University of Washington"
+  bio              : "Postdoctoral researcher, Caltech"
   location         : #"185 East Stevens Way NE, Seattle"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=XkrVZrwAAAAJ&hl=en"
-  email            : "yyshi@uw.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=kQyQ_vwAAAAJ&hl=en&oi=ao"
+  email            : "yyshi@eng.ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   home             : "http://shiyuanyuan.site/" # null (default), "absolute or relative url to link to author home"
