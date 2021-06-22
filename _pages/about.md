@@ -18,7 +18,7 @@ News
 
 [2021/05] New paper in safe reinforcement learning with Vertex Network! [Paper](http://proceedings.mlr.press/v144/zheng21a/zheng21a.pdf)
 
-[2021/01] Our paper in using deep learning for supply chain management is accepted to Management Science [``A practical end-to-end inventory management model with deep learning''](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737780)! 
+[2021/01] Our paper in using deep learning for supply chain management is accepted to Management Science! [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737780)
 
 [2020/09] I am co-organizing [Control Meets Learning](https://sites.google.com/view/control-meets-learning), a virtual seminar series on the intersection of control and learning. Checkout our [website](https://sites.google.com/view/control-meets-learning) for more details!
 
