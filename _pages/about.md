@@ -20,6 +20,6 @@ News
 
 [2021/01] Our paper in using deep learning for supply chain management is accepted to Management Science! [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737780)
 
-[2020/09] I am co-organizing [Control Meets Learning](https://sites.google.com/view/control-meets-learning), a virtual seminar series on the intersection of control and learning. Checkout our [website](https://sites.google.com/view/control-meets-learning) for more details!
+[2020/09] I am co-organizing [Control Meets Learning](https://www.youtube.com/channel/UCpo7ZjrPAr-wTKbJl3jDOVg/videos), a virtual seminar series on the intersection of control and learning. Checkout our [website](https://sites.google.com/view/control-meets-learning) for more details!
 
 [2020/04] New paper in using Input Convex Neural Network for power system voltage control. [Paper](https://arxiv.org/abs/2002.08684) 
