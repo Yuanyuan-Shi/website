@@ -14,6 +14,8 @@ I will be joining the [ECE department](http://www.ece.ucsd.edu/) at UCSD as an A
 
 News
 ======
+[2021/01] Our paper [``A practical end-to-end inventory management model with deep learning''](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737780) is accepted to Management Science.
+
 [2020/09] I am co-organizing [Control Meets Learning](https://sites.google.com/view/control-meets-learning), a virtual seminar series on the intersection of control and learning. Checkout our [website](https://sites.google.com/view/control-meets-learning) for more details!
 
 [2020/04] Two new preprints on ["Input Convex Neural Networks for Optimal Voltage Regulation"](https://arxiv.org/abs/2002.08684) and ["Safe Reinforcement Learning"](https://arxiv.org/abs/2003.09488) are on arXiv.
