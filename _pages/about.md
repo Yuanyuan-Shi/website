@@ -14,17 +14,12 @@ I will be joining the [ECE department](http://www.ece.ucsd.edu/) at UCSD as an A
 
 News
 ======
-[2021/01] Our paper [``A practical end-to-end inventory management model with deep learning''](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737780) is accepted to Management Science.
+[2021/05] New paper in online control of linear time-varying systems with applications in power system frequency control! [Paper](http://proceedings.mlr.press/v144/qu21a/qu21a.pdf) 
+
+[2021/05] New paper in safe reinforcement learning with Vertex Network! [Paper](http://proceedings.mlr.press/v144/zheng21a/zheng21a.pdf)
+
+[2021/01] Our paper in using deep learning for supply chain management is accepted to Management Science [``A practical end-to-end inventory management model with deep learning''](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737780)! 
 
 [2020/09] I am co-organizing [Control Meets Learning](https://sites.google.com/view/control-meets-learning), a virtual seminar series on the intersection of control and learning. Checkout our [website](https://sites.google.com/view/control-meets-learning) for more details!
 
-[2020/04] Two new preprints on ["Input Convex Neural Networks for Optimal Voltage Regulation"](https://arxiv.org/abs/2002.08684) and ["Safe Reinforcement Learning"](https://arxiv.org/abs/2003.09488) are on arXiv.
-
-[2020/02] Invited talks at Caltech CMS, UCSD ECE, Penn State EECS and Purdue ECE.
-
-[2019/12] Two works [Data-driven Robust RL](https://arxiv.org/abs/1906.07516) and [Learning Neural Simulators](https://drive.google.com/file/d/0B3mY6u_lryzdWWVxZ2pYZ1dINUQ3WUEwSHlkWnNSZDh5THVj/view) are presented in NeurIPS 2019 Workshop on Safety and Robustness in Decision Making. [[Poster1]](https://drive.google.com/file/d/1OSd4GnrEluGX_Vwx8HChREavtdTQTCde/view?usp=sharing) [[Poster2]](https://docs.google.com/presentation/d/1vtanHk-F50iLIPwE6yipUzloDDVZvgrL4iyn_Vj7yJc/edit?usp=sharing)
-
-[2019/07] I joined [DeepMind, London](https://deepmind.com/) as a research scientist intern, working on robust reinforcement learning for real-world applications.
-
-[2019/05] Our work ["Optimal Control Via Neural Networks: A Convex Approach''](https://openreview.net/forum?id=H1MW72AcK7) is presented in ICLR 2019! Poster and source code could be found here. [[PDF]](https://arxiv.org/pdf/1805.11835.pdf) [[Poster]](https://drive.google.com/file/d/1q-M--UvJsww-cRUFG_iW2bQvNAna51nP/view?usp=sharing) [[Code]](https://github.com/chennnnnyize/Optimal-Control-via-Neural-Networks)
-
+[2020/04] New paper in using Input Convex Neural Network for power system voltage control. [Paper](https://arxiv.org/abs/2002.08684) 
