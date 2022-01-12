@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+My personal website has officially moved to https://yyshi.eng.ucsd.edu/. This webpage will not be updated any more. 
+
 I am an Assistant Professor in the [Electrical and Computer Engineering Department](https://www.ece.ucsd.edu/) at UCSD. I am affiliated with the [Center for Machine-Integrated Computing and Security](http://mics.ucsd.edu/). My research interests are in the area of energy systems and cyberphysical systems, spanning from machine learning, optimization to control. 
 
 
