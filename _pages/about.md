@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My personal website has officially moved to [https://yyshi.eng.ucsd.edu/](https://yyshi.eng.ucsd.edu/). This webpage will not be maintained anymore. 
+My personal website has moved to [https://yyshi.eng.ucsd.edu/](https://yyshi.eng.ucsd.edu/). This webpage will not be maintained anymore. 
 
 I am an Assistant Professor in the [Electrical and Computer Engineering Department](https://www.ece.ucsd.edu/) at UCSD. My research interests broadly lie in machine learning, dynamical systems and control, and optimization. My lab focuses on various aspects of creating intelligent systems, with an emphasis on principled learning and control algorithms for sustainable energy/power systems and autonomous systems. Before joining UCSD, I was as a postdoc researcher at [Caltech](http://www.cms.caltech.edu/) from 2020-2021, working with Prof. [Adam Wierman](http://users.cms.caltech.edu/~adamw/) and Prof. [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/). I obtained my Ph.D. from [Electrical and Computer Engineering](https://www.ece.uw.edu/) department at the [University of Washington](https://www.washington.edu/), advised by [Prof. Baosen Zhang](https://zhangbaosen.github.io/). 
 
